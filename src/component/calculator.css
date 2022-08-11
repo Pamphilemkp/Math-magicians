@@ -1,159 +1,165 @@
 
 .big-container {
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .container {
-    display: grid;
-    grid-template-areas:
+  display: grid;
+  grid-template-areas:
     'show-val show-val show-val show-val'
     'AC plus-minus modulo divise'
     'seven height nine multiplication'
     'four five six minus'
     'one two three plus'
     'zero-first zero-first zero-first equal';
-    width: 50vw;
-    height: 50vh;
+  width: 50vw;
+  height: 50vh;
 }
 
 .zero {
-    grid-area: zero-first;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: zero-first;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .one {
-    grid-area: one;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: one;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .two {
-    grid-area: two;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: two;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .three {
-    grid-area: three;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: three;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .four {
-    grid-area: four;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: four;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .five {
-    grid-area: five;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: five;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .six {
-    grid-area: six;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: six;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .seven {
-    grid-area: seven;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: seven;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .height {
-    grid-area: height;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: height;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
 .nine {
-    grid-area: nine;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: nine;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .plus {
-    grid-area: plus;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: plus;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .minus {
-    grid-area: minus;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: minus;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .divise {
-    grid-area: divise;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: divise;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .multiply {
-    grid-area: multiplication;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: multiplication;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .plus-minus {
-    grid-area: plus-minus;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: plus-minus;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .AC {
-    grid-area: AC;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: AC;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
 .modulo {
-    grid-area: modulo;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: modulo;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .show-val {
-    grid-area: show-val;
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    text-align: right;
-    background-color: rgba(123, 136, 146, 0.6);
-    color: white;
+  grid-area: show-val;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  text-align: right;
+  background-color: rgba(123, 136, 146, 0.6);
+  color: white;
 }
 
 .equal {
-    grid-area: equal;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  grid-area: equal;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.equal, .multiply, .divise, .plus, .minus {
-    background-color: rgba(214, 110, 13, 0.9);
+.equal,
+.multiply,
+.divise,
+.plus,
+.minus {
+  background-color: rgba(214, 110, 13, 0.9);
 }
