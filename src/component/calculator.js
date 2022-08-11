@@ -2,8 +2,8 @@ import React from 'react';
 import './calculator.css';
 
 class Calculator extends React.Component {
-    render(){
-        return(
+  render() {
+    return (
             <div className="container">
               <input type="text" value="0" className="show-val" />
                 <button type="button" className="Ac">AC </button>
@@ -25,8 +25,8 @@ class Calculator extends React.Component {
                 <button type="button" className="zero">0</button>
                 <button type="button" className="equal">=</button>
             </div>
-        )
-    }
+    );
+  }
 }
 
 export default Calculator;

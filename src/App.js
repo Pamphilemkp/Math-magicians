@@ -1,14 +1,14 @@
 import React from 'react';
 import Calculator from './component/calculator';
-class App extends React.Component{
-  render(){
+
+class App extends React.Component {
+  render() {
     return (
       <div className='big-container'>
-        <Calculator /> 
+        <Calculator />
       </div>
     );
   }
- 
 }
 
 export default App;
