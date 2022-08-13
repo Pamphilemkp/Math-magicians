@@ -17,18 +17,18 @@ Simple calculator allowing the user to make mathmatical operations!
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://pamphilemkp.github.io/MATH-MAGICIANS/)
+[Live Demo Link](https://pamphilemkp.github.io/Math-magicians/)
 
 
 ## To get a local copy up and running:
 
 1. Clone this repository or download the zip folder:
 
-**``https://github.com/Pamphilemkp/Leaderboard-project.git`**
+**``https://github.com/Pamphilemkp/Math-magicians.git`**
 
 2. Navigate to the location of the folder in your machine:
 
-**``you@your-Pc-name:~$ cd <MATH-MAGICIANS>``**
+**``you@your-Pc-name:~$ cd <Math-magicians>``**
 
 To get a local copy up and running follow these simple example steps above.
 
@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple example steps above.
 Any kind of browser. 
 
 ### Setup:
-    1. Clone the repository (git clone https://github.com/Pamphilemkp/MATH-MAGICIANS.git)
+    1. Clone the repository (git clone https://github.com/Pamphilemkp/Math-magicians.git)
     2. Then open the folder in your local environment where you cloned it.
 
 ### `npm install`
@@ -52,7 +52,7 @@ You may also see any lint errors in the console.
 
 ### Deployment
 
-[See project here](https://pamphilemkp.github.io/MATH-MAGICIANS/)
+[See project here](https://pamphilemkp.github.io/Math-magicians/)
 
 ## Authors
 
@@ -66,7 +66,7 @@ You may also see any lint errors in the console.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Pamphilemkp/MATH-MAGICIANS/issues).
+Feel free to check the [issues page](https://github.com/Pamphilemkp/Math-magicians/issues).
 
 ## Show your support
 
