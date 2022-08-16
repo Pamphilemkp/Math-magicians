@@ -60,7 +60,7 @@ You may also see any lint errors in the console.
 
    - GitHub:[@pamphilemkp](https://github.com/pamphilemkp)
    - Twitter:[@pamphilemkp](https://Twitter.com/PamphileMusonda)
-   - LinkedIn:[@pamphilemkp](https:/LinkedIn.com/PamphileMusonda-2bb8a9237)
+   - LinkedIn:[@pamphilemkp](https://www.linkedin.com/in/pamphile-musonda-2bb8a9237)
 
 ## 🤝 Contributing
 
