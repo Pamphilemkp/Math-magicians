@@ -3,7 +3,6 @@ body {
 }
 
 .big-container {
-  
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -11,9 +10,7 @@ body {
   justify-content: center;
   padding: 20px;
   background-color: #692e69;
-background-image: linear-gradient(90deg, #692e69 0%, #aa9eab 19%, #ffffff 39%, #504d4d 60%, #692e69 80%, #695353 100%);
-
-  
+  background-image: linear-gradient(90deg, #692e69 0%, #aa9eab 19%, #fff 39%, #504d4d 60%, #692e69 80%, #695353 100%);
 }
 
 .container {
@@ -215,15 +212,16 @@ background-image: linear-gradient(90deg, #692e69 0%, #aa9eab 19%, #ffffff 39%, #
   background-color: rgb(240, 112, 112);
 }
 
-.link-1, .link-2 {
+.link-1,
+.link-2 {
   border-right: solid 1px black;
   padding: 0 10px;
-
 }
 
 .paragraph {
   width: 80vw;
 }
+
 .quote-text {
   text-align: center;
 }
