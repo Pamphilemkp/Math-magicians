@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './calculator.css';
-import calculate from '../logic/calculate'
+import calculate from '../logic/calculate';
 
 function Calculator() {
 
@@ -14,6 +14,7 @@ function Calculator() {
 
     return (
             <div className="container">
+
               <input type="text" value={state.next || state.total || 0} className="show-val" />
                 <button type="button" className="AC"         onClick={handEvents} >AC</button>
                 <button type="button" className="plus-minus" onClick={handEvents} >+/-</button>
