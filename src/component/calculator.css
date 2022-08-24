@@ -225,3 +225,37 @@ body {
 .quote-text {
   text-align: center;
 }
+
+@media only screen and (max-width: 768px){
+  .header-container {
+    width: 70vw;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .header-items{
+    width: 15vw;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: space-between;
+    gap: 10px;
+  }
+
+  .title {
+    color: rgb(18, 53, 40);
+  }
+
+  .link {
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(221, 174, 46);
+  }
+  
+  .quote-text {
+    width: 70vw;
+  }
+}
