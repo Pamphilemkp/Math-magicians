@@ -17,7 +17,7 @@ Simple calculator allowing the user to make mathmatical operations!
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://pamphilemkp.github.io/Math-magicians/)
+[Live Demo Link](https://deploy-preview-7--wondrous-axolotl-c65381.netlify.app)
 
 
 ## To get a local copy up and running:
@@ -52,7 +52,7 @@ You may also see any lint errors in the console.
 
 ### Deployment
 
-[See project here](https://pamphilemkp.github.io/Math-magicians/)
+[See project here](https://deploy-preview-7--wondrous-axolotl-c65381.netlify.app)
 
 ## Authors
 
