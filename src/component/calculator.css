@@ -226,7 +226,7 @@ body {
   text-align: center;
 }
 
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 768px) {
   .header-container {
     width: 70vw;
     height: 10vh;
@@ -235,13 +235,12 @@ body {
     align-items: center;
   }
 
-  .header-items{
+  .header-items {
     width: 15vw;
     height: 30vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: space-between;
     gap: 10px;
   }
 
@@ -254,7 +253,7 @@ body {
     font-size: 18px;
     color: rgb(221, 174, 46);
   }
-  
+
   .quote-text {
     width: 70vw;
   }

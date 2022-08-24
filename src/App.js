@@ -1,21 +1,21 @@
 import React from 'react';
+import { Routes, Route } from 'react-router-dom';
 import Calculator from './component/calculator';
-import {Routes, Route} from 'react-router-dom';
 import Home from './pages/Home';
 import Quotes from './pages/Quotes';
-
+// eslint-disable-next-line react/prefer-stateless-function
 class App extends React.Component {
   render() {
     return (
-      <div className='big-container'>
+      <div className="big-container">
         <Routes>
 
-          <Route path='/'  element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="Calculator" element={<Calculator />} />
-            
+
           <Route path="Quotes" element={<Quotes />} />
 
-        </Routes>  
+        </Routes>
       </div>
     );
   }
